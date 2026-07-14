@@ -1,7 +1,7 @@
  📊 Superstore Sales Analytics Dashboard
 * 📌 Project Overview
 
-The Superstore Sales Analytics Dashboard is an interactive Business Intelligence solution developed in Power BI to analyze sales performance, customer behavior, profitability, and operational efficiency. Using SQL, Power Query, and DAX, the dashboard converts transactional sales data into actionable business insights that help monitor revenue trends, customer engagement, and product performance.
+The Superstore Sales Analytics Dashboard is an interactive Business Intelligence solution developed in Power BI to analyze sales performance,  customer behavior, profitability, and operational efficiency. Using SQL, Power Query, and DAX, the dashboard converts transactional sales data into actionable business insights that help monitor revenue trends, customer engagement, and product performance.
 
 * 🎯 Project Objectives
   * Monitor overall sales and profitability.
